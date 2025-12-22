@@ -21,6 +21,7 @@
             "group": "TypeScript SDK",
             "pages": [
               "sdk/typescript/introduction",
+              "sdk/typescript/support",
               "sdk/typescript/installation",
               "sdk/typescript/quickstart",
               "sdk/typescript/instrumentation",
@@ -34,6 +35,7 @@
             "group": "Python SDK",
             "pages": [
               "sdk/python/introduction",
+              "sdk/python/support",
               "sdk/python/installation",
               "sdk/python/quickstart",
               "sdk/python/instrumentation",
